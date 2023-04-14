@@ -1,0 +1,21 @@
+body{
+min-height: 100vh;   
+background:url(image\ cv.jpeg);
+background-size:cover;
+background-attachment:fixed;
+/* j'ai mis mon backround et j'ai modifié la taille et le fond */
+margin:0%;
+
+color: aliceblue;
+align-items: center;
+text-align: center;
+}
+table{align-items: center;
+       justify-content: center;
+      border: solid black;
+}
+       /* j'ai voulus centrer tout le texte  */
+
+
+
+
